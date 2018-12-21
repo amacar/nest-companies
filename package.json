@@ -1,7 +1,7 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "nest-companies",
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "Nest Companies",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
@@ -24,6 +24,7 @@
     "@nestjs/microservices": "^5.4.0",
     "@nestjs/testing": "^5.4.0",
     "@nestjs/websockets": "^5.4.0",
+    "body-parser": "^1.18.3",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.2.2"
